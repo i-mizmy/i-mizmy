@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a very experienced C and Intel architectures
+I am a very experienced C and intel architectures
 assembly developer for GNU/Linux and have a long
 history of low-level programming.
 
@@ -24,7 +24,7 @@ files. Going to make a repo for it soon.
 I have written many assemblers in my life, but
 dropped all of them after a while because I lost
 the motivation and endurance. This assembler for
-the Intel architecture(s) I want to finish, and
+the intel architecture(s) I want to finish, and
 put it here on GitHub as inspiration and learning
 opportunity for people interested in the field.
 
