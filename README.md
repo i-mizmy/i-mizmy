@@ -19,7 +19,7 @@ just an experiment to mess around with. It is a
 functional tool written in C to create ELF object
 files. Going to make a repo for it soon.
 
-## 2) Tiny Intel Assembler:
+## 2) Tiny intel Assembler:
 
 I have written many assemblers in my life, but
 dropped all of them after a while because I lost
